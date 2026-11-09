@@ -10,7 +10,7 @@ variable "name_db"{
 
 variable "password"{
     type = string
-    default = "password123"
+    default = "NewPassword225"
 }
 
 variable "app_port_external" { 
